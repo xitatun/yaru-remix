@@ -19,26 +19,9 @@ Yaru-remix includes:
 - For auto-install using script, please follow instructions from [here](script.md)
 
 ### Manual-Installation:
-- For **GNOME 40**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-40/install.md)
-- For **Ubuntu 20.10 / GNOME 3.38**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-38/install.md)
+- For **GNOME 40**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-40/install.md).
+- For **Ubuntu 20.10 / GNOME 3.38**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-38/install.md).
 - For **Ubuntu 20.04 / GNOME 3.36**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-36/install.md).
-- For **Ubuntu 18.04 / GNOME 3.28**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-28/install.md)
-
-### Screenshots:
-
-- **GNOME 40** default:
-
-![default](.github/docs/40-default.png)
-
-- **GNOME 40** light:
-
-![light](.github/docs/40-light.png)
-
-- **GNOME 40** dark:
-
-![dark](.github/docs/40-dark.png)
-
-
-
+- For **Ubuntu 18.04 / GNOME 3.28**, please follow instructions from [here](https://github.com/Muqtxdir/yaru-remix/blob/gnome-3-28/install.md).
 
 
